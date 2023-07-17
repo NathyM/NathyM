@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NathyM
-- 🌱 I’m currently learning ReactJS, Typescript, Node
+- 🌱 I’m currently learning ReactJS, Typescript, Node, C# and SQL Server.
 - 💞️ I’m looking to collaborate on projects
 - 📫 macedonatalie@gmail.com
 
